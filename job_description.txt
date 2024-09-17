@@ -1,0 +1,69 @@
+Latapult
+Full Stack Developer
+Savannah, GA
+
+
+
+Easy Apply
+
+
+Easy Apply
+Location: Savannah, GA
+
+About Us: Latapult is a premier Geographic Information System (GIS) platform that empowers data-validated, location-smart business decisions with collaborative, dynamic mapping. Our team is passionate about creating cutting-edge map-based applications that drive efficiency and productivity. We believe in fostering a collaborative and dynamic work environment where creativity thrives.
+
+Job Description: Latapult is seeking a talented Full Stack Developer to join our growing team. The ideal candidate will be responsible for developing and maintaining both front-end and back-end components of our software applications. You will work on our development team and closely with our product management and design teams to deliver high-quality solutions that meet our clients' needs.
+
+Responsibilities:
+
+Develop front-end components using modern JavaScript frameworks.
+Design and implement back-end services and APIs.
+Creative problem solving
+Collaborate with cross-functional teams to translate business requirements into technical specifications.
+Write clean, efficient, and well-documented code.
+Perform code reviews and provide constructive feedback to team members.
+Troubleshoot and debug issues to ensure optimal performance and reliability.
+Database design
+Stay up-to-date with emerging technologies and best practices in full stack development.
+Requirements:
+
+Bachelor's degree in Computer Science, Engineering, or related field.
+0-5 years of proven experience as a Full Stack Developer or similar role.
+Proficiency in front-end technologies such as HTML5, CSS3, and JavaScript.
+Experience with modern JavaScript frameworks/libraries (e.g., React.js, Vue.js).
+Strong understanding of back-end development concepts and technologies.
+Knowledge of database systems (e.g., SQL, MongoDB, PostgreSQL).
+Familiarity with version control systems (e.g., GitLab).
+Experience with Django web framework, Docker, Kubernetes, Linux and Elastic Stack
+Excellent communication and collaboration skills.
+Ability to work independently and as part of a team in a fast-paced environment.
+Preferred Qualifications:
+
+Experience with cloud-based GIS solutions.
+Experience working on a Software Development team.
+Advanced proficiency with Kubernetes.
+Full Lifecycle Development Experience
+Understanding of DevOps Practices.
+UI/UX Design Skills.
+Agile Development Experience.
+Job Type: Full-time
+
+Benefits:
+
+401(k)
+401(k) matching
+Dental insurance
+Flexible spending account
+Health insurance
+Life insurance
+Paid time off
+Relocation assistance
+Retirement plan
+Vision insurance
+Ability to Commute:
+
+Savannah, GA 31401 (Required)
+Ability to Relocate:
+
+Savannah, GA 31401: Relocate before starting work (Required)
+Work Location: In person

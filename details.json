@@ -1,0 +1,89 @@
+{
+  "name": "Amit Samant",
+  "email": "samantamitus@gmail.com",
+  "phone": "3619104013",
+  "address": "1501 Horseway Dr",
+  "portfolio": "https://amitportfolio-rho.vercel.app/",
+  "linkedin": "https://linkedin.com/in/amitsamant12",
+  "github": "https://github.com/Jaemo12",
+  "experience": [
+    {
+      "job_title": "Gen AI / Full-Stack Development Intern",
+      "company": "Iam-Intelligence",
+      "startDate": "2023-01",
+      "endDate": "Present",
+      "location": "Remote",
+      "responsibilities": [
+        "Engineered a responsive front-end for the MAIT app using Flutter and Dart, resulting in a 30% increase in user engagement and a 25% boost in retention rates",
+        "Collaborated on implementing an Image Processing model with Google Cloud Vision, PyTesseract, and OpenCV, enhancing data extraction accuracy by 30% and processing speed by 40%",
+        "Architected a robust Firebase integration, fortifying authentication protocols and optimizing data storage, elevating overall security measures by 50%",
+        "Spearheaded the automation of data pipelines (CI/CD) using Jenkins and Docker, streamlining model training and deployment processes by 50%",
+        "Pioneered research in generative AI techniques, leveraging Alpaca to enhance the MAIT app's efficiency by 35%",
+        "Devised and implemented RESTful APIs using Node.js and Express, facilitating seamless communication between front-end and back-end systems",
+        "Orchestrated the integration of third-party services, expanding the app's functionality and user engagement by 45%"
+      ]
+    },
+    {
+      "job_title": "Software Developer",
+      "company": "Cognizant Technologies Solutions",
+      "startDate": "2020-01",
+      "endDate": "2022-12",
+      "location": "Austin, TX",
+      "responsibilities": [
+        "Developed user-centric full-stack applications utilizing React, Angular, and Java Spring Boot, improving user satisfaction scores by 25%",
+        "Revolutionized the deployment workflow by implementing Docker containerization, accelerating team efficiency by 40%",
+        "Administered AWS cloud infrastructure and optimized CI/CD pipelines, reducing product launch cycles by 15%",
+        "Steered the migration of a legacy system to AWS, enhancing scalability by 50% and achieving a 30% reduction in operational costs",
+        "Refined the testing process by integrating Selenium, expediting test cycles by 30% and diminishing critical bugs by 20%",
+        "Crafted comprehensive API test suites using Postman and integrated them into Jenkins, bolstering software quality metrics by 35%",
+        "Executed in-depth performance testing to identify and resolve critical errors, increasing overall system efficiency by 26%",
+        "Mentored junior developers in best practices for code quality and design patterns, improving team productivity by 22%",
+        "Implemented microservices architecture using Spring Boot, enhancing system modularity and scalability by 40%"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "AI Diary",
+      "skills": ["Generative AI", "React.js", "Firebase", "Mantine", "Git", "TypeScript", "Data Analysis", "Data Visualization"],
+      "highlights": [
+        "Architected a scalable data pipeline using Firebase, processing over 10,000 daily journal entries and mood data points for real-time AI-driven insights",
+        "Integrated a state-of-the-art generative AI model utilizing the Gemini API, boosting user engagement by 45% through personalized insights",
+        "Optimized front-end performance using React.js and TypeScript, achieving a 20% improvement in page load speed",
+        "Engineered a robust authentication system with Firebase, implementing multi-factor authentication and end-to-end encryption",
+        "Leveraged Git for version control, implementing a branching strategy that increased team productivity by 25%",
+        "Designed and implemented data visualization components using D3.js, enhancing user comprehension of mood trends by 60%",
+        "Constructed a recommendation system using collaborative filtering, increasing daily user interactions by 38%"
+      ]
+    },
+    {
+      "name": "ReviewFlix",
+      "skills": ["Python", "Web Scraping", "MongoDB", "Flask", "CSS3", "Next.js"],
+      "highlights": [
+        "Developed a high-performance web scraper for IMDb and Rotten Tomatoes using Python and BeautifulSoup, improving data accuracy by 50%",
+        "Designed a sophisticated movie recommendation engine using collaborative filtering algorithms, increasing user engagement by 35%",
+        "Orchestrated automated workflows for data cleaning and validation using Python and Pandas, boosting operational efficiency by 30%",
+        "Implemented a comprehensive testing suite with pytest, achieving 90% code coverage and reducing post-deployment issues by 60%",
+        "Crafted a visually stunning user interface by combining Framer Motion animations with Next.js, increasing average session duration by 25%",
+        "Integrated a real-time notification system using WebSockets, enhancing user engagement with personalized movie suggestions by 42%",
+        "Implemented server-side rendering with Next.js, improving initial page load times by 35% and enhancing SEO performance"
+      ]
+    }
+  ],
+  "skills": {
+    "programming_languages": ["Java", "C", "C++", "Python", "Flutter", "Dart"],
+    "databases": ["SQL", "NoSQL", "PostgreSQL", "MongoDB", "MySQL", "Firebase", "Redis"],
+    "frontend_development": ["JavaScript", "HTML5", "CSS3", "React", "Angular", "Vue", "Next.js", "TypeScript", "UI/UX Design", "PHP", "Bootstrap", "jQuery", "Flask", "Responsive Design"],
+    "version_control_and_cloud": ["Git", "Amazon Web Services (AWS)", "Docker", "Vercel", "Kubernetes", "CI/CD"],
+    "backend_development": ["Java SpringBoot", "Node.js", "Express.js", "MVC architecture", "REST API", "GraphQL", "Postman", "Jenkins", "JSON", "Linux", "Microservices"]
+  },
+  "education": [
+    {
+      "institution": "Texas A&M University - Corpus Christi",
+      "degree": "Masters of Science in Computer Science",
+      "startDate": "2022-08",
+      "endDate": "2024-05",
+      "location": "Corpus Christi, United States"
+    }
+  ]
+}
